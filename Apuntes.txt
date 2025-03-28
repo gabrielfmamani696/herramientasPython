@@ -1,0 +1,47 @@
+Clase 4 Recorrido Rápido
+
+
+Abrir Proyecto
+
+#Consejo: poner un solo proyecto en una sola carpeta
+
+Se puede abrir desde el explorador de archivos que se ubica en el sidebar
+
+se abre una nuva terminal con CTRL+J
+
+el sidebar con CTRL+B
+
+A la derecha hay un minimapa de todo el archivo dandole click, pero lo desavtice poque no me gusta
+
+Al sincronizar un repo de GitHub, podemos ver que cambios se tienen en el archivo Mediante un indicador verde.`
+
+Arriba a la derecha sta la opcion View donde poderemos abrir la paleta de comandos. Algunas extensiones agregan funciones a tarves de esta paelta de comandos.
+
+
+Módulo 2 | 4 clases
+Características principales de Visual Studio Code
+
+Con Ctrl+ o CTRL- se hace zoom al editor, tambien en view>appeareance>zoom in or zoom out
+
+CTRL+F para buscar o reemplazar palabras. se puede usar o no las expresiones regulares
+
+Abajo a la derecha puedes cambiar el lenguaje de programacion
+
+File>Preferences>Settings
+
+Generalmente se usan Spaces y no Tabs
+
+Abajo se puede cambiar el numero de spaces para cada archivo individualmente
+
+
+Dentro del sidebar hay una busqueda que se puede abrir con CTRL+Shift+v para buscar en TODOS los archivos
+
+
+Para editar multiples lineas puedes darl click mientras presionas la tecla Alt
+
+con Alt y las felchas para mover una lineas
+
+
+Clase 2
+Ventana explorador
+
